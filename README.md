@@ -1,10 +1,10 @@
 # 周明樺 / CHOU MING HUA
 
-> 來自台灣的 AI 協作創作者，炎劍文化工作室主理人。<br>
-> AI-assisted creator from Taiwan and founder of Flame Blade Studio.
+> 來自台灣的 AI 協作創作者，炎劍文化工作室 Flameblade Studio 主理人。<br>
+> AI-assisted creator from Taiwan and founder of Flameblade Studio.
 
-- 🌐 [台股除魔小隊（TAIEX Exorcist Squad）官方網站](https://www.flamebladestudio.com.tw)
-- 𝕏 [炎劍文化工作室 / Flame Blade Studio](https://x.com/flameblade_stu)
+- 🌐 [炎劍文化工作室 Flameblade Studio 官方網站](https://www.flamebladestudio.com.tw)
+- 𝕏 [炎劍文化工作室 Flameblade Studio](https://x.com/flameblade_stu)
 
 ## 關於我
 
@@ -18,7 +18,7 @@
 ### 代表作品
 
 - [墨寒桌面語音互動虛擬助理](https://github.com/hitoshic1982/MoHan-PC-Desktop-Assistant)：以北宋千年女劍魂為人格核心，結合自然語音、表情動畫、長期記憶、工作管理與安全權限系統的 Windows 開源桌面助理。
-- [台股除魔小隊（TAIEX Exorcist Squad）](https://www.flamebladestudio.com.tw)：我的官方網站，分享創作、研究與炎劍文化工作室的作品。
+- [台股除魔小隊（TAIEX Exorcist Squad）](https://www.flamebladestudio.com.tw)：炎劍文化工作室旗下的原創財商漫畫與 AI 音樂劇 IP。
 
 ### 支持這個專案
 
@@ -53,7 +53,7 @@ work and life.
 ### Featured Work
 
 - [MoHan Desktop Assistant](https://github.com/hitoshic1982/MoHan-PC-Desktop-Assistant): an open-source Windows companion built around the persona of a thousand-year-old sword spirit from the Northern Song dynasty, combining natural voice, animated expressions, long-term memory, productivity workflows, and permission-gated tools.
-- [TAIEX Exorcist Squad](https://www.flamebladestudio.com.tw): my official website for creative work, research, and projects from Flame Blade Studio.
+- [TAIEX Exorcist Squad](https://www.flamebladestudio.com.tw): an original financial-literacy comic and AI musical IP from Flameblade Studio.
 
 ### Support the Project
 
