@@ -1,12 +1,11 @@
-# 周明樺 / CHOU MING HUA
-
-> 炎劍文化工作室 / Flameblade Studio 創辦人，來自台灣的 AI 協作創作者。<br>
-> Founder of Flameblade Studio and an AI-assisted creator from Taiwan.
-
-- 🌐 [炎劍文化工作室 / Flameblade Studio 官方網站](https://www.flamebladestudio.com.tw)
-- 𝕏 [炎劍文化工作室 / Flameblade Studio](https://x.com/flameblade_stu)
+# 周明樺／周明桦／CHOU MING HUA／周明樺（チョウ・ミンホア）
 
 ## 繁體中文
+
+> 炎劍文化工作室創辦人，來自台灣的 AI 協作創作者。
+
+- 🌐 [炎劍文化工作室官方網站](https://www.flamebladestudio.com.tw)
+- 𝕏 [炎劍文化工作室](https://x.com/flameblade_stu)
 
 ### 關於我
 
@@ -36,12 +35,19 @@
   </tr>
 </table>
 
-- [Buy Me a Coffee](https://buymeacoffee.com/flameblade_studio)
-- [PayPal.Me](https://www.paypal.com/paypalme/flamebladestudio)
+請使用本儲存庫上方由 GitHub 顯示的 **Sponsor** 按鈕；目前正式收款選項為
+Ko-fi，可選擇單次或每月贊助。
+
+> 把想像鍛造成作品。
 
 ---
 
 ## 简体中文
+
+> 炎剑文化工作室创办人，来自台湾的 AI 协作创作者。
+
+- 🌐 [炎剑文化工作室官方网站](https://www.flamebladestudio.com.tw)
+- 𝕏 [炎剑文化工作室](https://x.com/flameblade_stu)
 
 ### 关于我
 
@@ -63,12 +69,27 @@
 如果你喜欢墨寒，或认同我持续投入 AI 协作创作与开源开发，欢迎自愿支持
 这个项目。每一份支持都会成为我继续维护、测试与改进作品的动力。
 
-- [Buy Me a Coffee](https://buymeacoffee.com/flameblade_studio)
-- [PayPal.Me](https://www.paypal.com/paypalme/flamebladestudio)
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top"><img src="https://raw.githubusercontent.com/hitoshic1982/MoHan-PC-Desktop-Assistant/main/docs/media/support-proud.png" width="220" height="220" alt="墨寒傲娇"><br><strong>“妾才不是在等赞助……只是替主上巡视军粮。”</strong></td>
+    <td width="33%" align="center" valign="top"><img src="https://raw.githubusercontent.com/hitoshic1982/MoHan-PC-Desktop-Assistant/main/docs/media/support-shy-aligned.png" width="220" height="220" alt="墨寒娇羞"><br><strong>“若真愿意相助，妾……会记得的。”</strong></td>
+    <td width="33%" align="center" valign="top"><img src="https://raw.githubusercontent.com/hitoshic1982/MoHan-PC-Desktop-Assistant/main/docs/media/support-mock-hit.png" width="220" height="220" alt="墨寒佯怒"><br><strong>“不许勉强！先顾好自己的荷包，听见没有？”</strong></td>
+  </tr>
+</table>
+
+请使用本仓库上方由 GitHub 显示的 **Sponsor** 按钮；目前正式收款选项为
+Ko-fi，可选择单次或每月赞助。
+
+> 把想象锻造成作品。
 
 ---
 
 ## English
+
+> Founder of Flameblade Studio and an AI-assisted creator from Taiwan.
+
+- 🌐 [Flameblade Studio official website](https://www.flamebladestudio.com.tw)
+- 𝕏 [Flameblade Studio](https://x.com/flameblade_stu)
 
 ### About Me
 
@@ -93,12 +114,28 @@ If you enjoy MoHan or would like to support my continuing work in AI-assisted
 creation and open-source development, voluntary contributions are warmly
 welcome. Every contribution helps me maintain, test, and improve the project.
 
-- [Buy Me a Coffee](https://buymeacoffee.com/flameblade_studio)
-- [PayPal.Me](https://www.paypal.com/paypalme/flamebladestudio)
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top"><img src="https://raw.githubusercontent.com/hitoshic1982/MoHan-PC-Desktop-Assistant/main/docs/media/support-proud.png" width="220" height="220" alt="MoHan acting proud"><br><strong>“I am not waiting for support… I am merely inspecting provisions for my lord.”</strong></td>
+    <td width="33%" align="center" valign="top"><img src="https://raw.githubusercontent.com/hitoshic1982/MoHan-PC-Desktop-Assistant/main/docs/media/support-shy-aligned.png" width="220" height="220" alt="MoHan acting shy"><br><strong>“If you truly wish to help, I… will remember it.”</strong></td>
+    <td width="33%" align="center" valign="top"><img src="https://raw.githubusercontent.com/hitoshic1982/MoHan-PC-Desktop-Assistant/main/docs/media/support-mock-hit.png" width="220" height="220" alt="MoHan pretending to be angry"><br><strong>“Do not overextend yourself! Take care of your own purse first, understood?”</strong></td>
+  </tr>
+</table>
+
+Use the **Sponsor** button displayed by GitHub above this repository; Ko-fi is
+the current official funding option and supports one-time or monthly
+contributions.
+
+> Forging imagination into something real.
 
 ---
 
 ## 日本語
+
+> 炎剣文化工作室の創設者であり、台湾を拠点とする AI 協働クリエイターです。
+
+- 🌐 [炎剣文化工作室公式サイト](https://www.flamebladestudio.com.tw)
+- 𝕏 [炎剣文化工作室](https://x.com/flameblade_stu)
 
 ### 自己紹介
 
@@ -122,9 +159,17 @@ welcome. Every contribution helps me maintain, test, and improve the project.
 応援してくださる方からの任意のご支援を歓迎します。皆さまからのご支援は、
 プロジェクトの保守、検証、改善を続ける力になります。
 
-- [Buy Me a Coffee](https://buymeacoffee.com/flameblade_studio)
-- [PayPal.Me](https://www.paypal.com/paypalme/flamebladestudio)
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top"><img src="https://raw.githubusercontent.com/hitoshic1982/MoHan-PC-Desktop-Assistant/main/docs/media/support-proud.png" width="220" height="220" alt="誇らしげな墨寒"><br><strong>「妾は支援を待っているのではありません……ただ主上の兵糧を見回っているだけです。」</strong></td>
+    <td width="33%" align="center" valign="top"><img src="https://raw.githubusercontent.com/hitoshic1982/MoHan-PC-Desktop-Assistant/main/docs/media/support-shy-aligned.png" width="220" height="220" alt="恥じらう墨寒"><br><strong>「本当に力を貸してくださるなら、妾は……忘れません。」</strong></td>
+    <td width="33%" align="center" valign="top"><img src="https://raw.githubusercontent.com/hitoshic1982/MoHan-PC-Desktop-Assistant/main/docs/media/support-mock-hit.png" width="220" height="220" alt="怒ったふりをする墨寒"><br><strong>「無理は禁物です！　まずはご自身のお財布を大切になさってください、よろしいですね？」</strong></td>
+  </tr>
+</table>
+
+このリポジトリ上部に GitHub が表示する **Sponsor** ボタンをご利用ください。
+現在の正式な支援先は Ko-fi で、単発または毎月の支援を選べます。
+
+> 想像を作品へ鍛え上げる。
 
 ---
-
-> 把想像鍛造成作品。／把想象锻造成作品。／Forging imagination into something real.／想像を作品へ鍛え上げる。
